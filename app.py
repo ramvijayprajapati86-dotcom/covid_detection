@@ -107,4 +107,3 @@ if uploaded_file is not None:
             st.write(
                 f"Confidence: {(1 - probability) * 100:.2f}%"
             )
-```
