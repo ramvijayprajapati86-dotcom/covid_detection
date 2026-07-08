@@ -1,5 +1,11 @@
 streamlit
-pandas
-scikit-learn
+tensorflow
+keras
+keras-preprocessing
 numpy
+pandas
+opencv-python-headless
+Pillow
 matplotlib
+scikit-learn
+h5py
