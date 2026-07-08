@@ -9,3 +9,4 @@ Pillow
 matplotlib
 scikit-learn
 h5py
+seaborn
