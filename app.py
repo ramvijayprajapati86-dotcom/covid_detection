@@ -183,3 +183,7 @@ plt.title(f"Prediction: {prediction}")
 plt.axis('off')  # Hide the axes
 plt.show()
 
+import tensorflow as tf
+loaded_model=tf.keras.models.load_model('model.h5')
+loaded_model.save('model.keras')
+print('Model Saved')
