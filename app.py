@@ -18,7 +18,6 @@ from keras_preprocessing import image
 from keras_preprocessing.image import ImageDataGenerator
 import matplotlib.pyplot as plt
 
-pip install keras_preprocessing
 
 """# Data ingesting of Covid 19 images
 
